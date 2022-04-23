@@ -1,11 +1,12 @@
 ## Bitcoin Wallet (Python)
 
+In this program, users are able to create their own bitcoin wallet address as well as public and private keys. Enjoy
+
 
 ### Installation:
 
 pip install bitcoin
 
-In this program, users are able to create their own bitcoin wallet address as well as public and private keys. Enjoy
 
 ### Advantages:
 
